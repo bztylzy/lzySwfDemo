@@ -12,7 +12,7 @@ class FourViewController: BaseViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-         self.title="我的"
+         self.title="我的家在河北邯郸"
         self.view.backgroundColor=UIColor.whiteColor()
         let lableHight: Float = 4
         
